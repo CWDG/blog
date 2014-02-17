@@ -1,4 +1,4 @@
-tutorials
-=========
+#CWDG Tutorials
 
-This is our repository for different tutorials for our users.
+These are different tutorials that we have for our users. Any markdown file except the README
+will be parsed and read on the website.
