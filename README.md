@@ -1,5 +1,7 @@
 # CWDG Blog
 
+**This repository is now deprecated! The group decided to not maintain the blog.**
+
 This is where the raw posts for the CWDG blog are stored. Members are
 encouraged to submit posts! Any markdown file except the README will be parsed
 and posted to the website.
